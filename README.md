@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on AI/iot
+- 🌱 I’m currently learning Go and Algorithms
+- 💬 Ask me about Python/Go/AI/ComputerVision
+- ⚡ Fun fact: I have Mechanical Background🔧
 <!--
 **lizzzcai/lizzzcai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
